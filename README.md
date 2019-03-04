@@ -8,5 +8,5 @@ Introductory course in Computational Neuroscience. The course is intended for fi
 graduate students with a non-quantitative background. The course include: Statistics & Probability, Generalized Linear Models,
 Time series, and Dimensionality Reduction.
 
-*author:* <br> &nbsp; Jantine Broek <br><br>
+author: <br> &nbsp; Jantine Broek <br><br>
 ----------
